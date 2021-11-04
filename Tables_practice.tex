@@ -1,0 +1,127 @@
+\documentclass{article}
+
+\usepackage{siunitx}
+\usepackage[table]{xcolor}
+\usepackage{rotating}
+\sisetup{
+	round-mode = places,
+	round-precision = 2,
+}
+
+\begin{document}
+	\section{Table-Exercise-1}
+	\begin{table}[h!]
+		\begin{center}
+			\caption{First Year, First Semester}
+			\label{tab:table1}
+			\begin{tabular}{l|c|r|c}
+				\textbf{COurse Code} & \textbf{Credit Unit} & \textbf{Letter Grade}\\
+				- & (CU) & (LG) \\
+				\hline
+				CSC 101 & 3 & A\\
+				MTH 101 & 3 & B\\
+				CHM 101 & 3 & c\\
+				\end{tabular}
+		\end{center}
+	\end{table}
+
+
+\section{Table-Exercise-2}
+	\begin{table} [h!]
+		\begin{center}
+			\caption{First Year, First Semester}
+			\label{tab:table1}
+			\begin{tabular}{l|c|r|c}
+				\textbf{Course Code} & \textbf{Credit Unit} & \textbf{Letter Grade}\\
+				- & (CU) & (LG) \\
+				\hline 
+				CSC 101 & 3 & A\\
+				MTH 101 & 3 & B\\
+				CHM 101 & 3 & C\\
+				PHY 107 & 1 & B\\
+				GST 103 & 2 & A\\
+				\end{tabular}
+		\end{center}
+	\end{table}
+\section{Table-Exercise-3}
+\begin{table} [h!]
+	\begin{center}
+		\caption{First Year, First Semester}
+		\label{tab:table1}
+		\begin{tabular}{l|c|r|c}
+			\textbf{Course code} & \textbf{Credit Unit} & \textbf{Letter Grade} & \textbf{Grade Point}\\ - & (CU) & (LG) & (GP) \\
+			\hline
+			CSC 101 & 3 & A & 5\\
+			MTH 101 & 3 & B & 4\\
+			CHM 101 & 3 & C & 3\\
+			\end{tabular}
+	\end{center}
+\end{table}
+\newpage
+\section{Table-Exercise-4}
+	\begin{table} [h!]
+		\begin{center}
+			\caption{Table without aligned units.}
+			\label{tab:table1}
+			\begin{tabular}{l|c|r}
+				\textbf{Value 1} & \textbf{Value 2} &
+				\textbf{Value 3}\\
+				$\alpha$ $\beta$ & $\gamma$ \\
+				\hline
+				1 & 1110.1 & a\\
+				2 & 10.1 & b\\
+				3 & 23.113231 & c\\
+				
+			\end{tabular}
+		\end{center}
+	\end{table}
+
+\section{Table-Exercise-5}
+\begin{table}[h!]
+	\begin{center}
+		\caption{Table with aligned units}
+		\label{table:table1}
+		\begin{tabular}{l|S|r}
+			\textbf{Value 1} & \textbf{Value 2} & \textbf{Value 3}\\
+			$\alpha$ & $\beta$ & $\gamma$ \\
+			\hline
+			1 & 1110.1 & a\\
+			2 & 10.1 & b\\
+			3 & 23.113231 & c\\
+			\end{tabular}
+	\end{center}
+		
+\end{table}
+
+\section{Table-Exercise-6}
+\begin{table}[h!]
+	\begin{center}
+		\caption{Table with colored cell.}
+		\label{tab:table1}
+		\begin{tabular}{l|l|l|r}
+			\hline
+			\textbf{S/N} & \textbf{Amount A} & \textbf{Amount B} & \textbf{Amount C}\\
+			\hline
+			\cellcolor{blue!25}1 & 4210.1 & 33.454 & 233.114\\
+			\cellcolor{green!20}2 & 110.1 & 134.5677 & 3.556\\
+			\cellcolor{red!35}3 & 54.113231 & 1456.55 & 13.177\\
+			\hline
+		\end{tabular}
+		\end{center}
+\end{table}
+\newpage
+\begin{sidewaystable}
+	\begin{center}
+		\caption{First Semester CSC  101 Time-Table}
+		\label{tab:table1}
+		\begin{tabular}{l|c|r|c|c|c|c|c|c|c}
+			\textbf{Course Code} & \textbf{Course Title} & \textbf{Status} & \textbf{Unit} & \textbf{Time} & \textbf{Monday} & \textbf{Tuesday} & \textbf{Wednesday} & \textbf{Thursday} & \textbf{Friday}\\
+			\hline
+			GST 101 & Communication in English I & C & 2 & 9 - 10AM & PHY 101 & MTH 101 & - & - & - \\
+			\hline
+			GST 101 & Communication in English I & C & 2 & 9 - 10AM & PHY 101 & MTH 101 & - & - & - \\
+			\end{tabular}
+		\end{center}
+\end{sidewaystable}
+	
+\end{document}
