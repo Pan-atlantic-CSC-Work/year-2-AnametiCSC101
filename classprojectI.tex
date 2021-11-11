@@ -1,0 +1,50 @@
+\documentclass{article}
+
+\usepackage{graphicx}
+\usepackage{booktabs}
+\usepackage{array}
+\usepackage{multirow}
+\usepackage{siunitx}
+\usepackage{pgfplotstable}
+\sisetup{
+	round-mode= places,
+	round-precision= 2,
+}
+
+\begin{document}
+\begin{table}[h!]
+	\begin{center}
+		\caption{Classification of Robots}
+		\label{table1}
+		\pgfplotstabletypeset[
+		multicolumn names, % allows to have multicolumn names
+		col sep=comma, %the separator in our .csv file
+		display columns/0/.style={
+			column name=$Source$,
+			column type={S},string type},
+		display columns/1/.style={
+			column name=$Num 2$,
+			column type={S},string type},
+		display columns/2/.style={
+			column name=$Num 3$,
+			column type={S},string type},
+		display columns/3/.style={
+			column name=$Num 4$,
+			column type={S},string type},
+		display columns/4/.style={
+			column name=$Num 5$,
+			column type={S},string type},
+		display columns/5/.style={
+			column name=$Num 6$,
+			column type={S},string type},
+		every head row/.style={
+			before row={\toprule}, % have a rule at top
+			after row={
+				\si{\ampere} & \si{\volt}\\ % the units separated by &
+				\midrule} % rule under units
+		},
+		every last row/.style={after row=\bottomrule}, % rule at bottom
+		]{Robots.csv} % filename/path to file
+	\end{center}
+\end{table}
+\end{document}
