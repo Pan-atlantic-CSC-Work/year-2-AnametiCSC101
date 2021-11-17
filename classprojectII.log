@@ -1,0 +1,510 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.10) (preloaded format=pdflatex 2021.11.4)  17 NOV 2021 10:01
+entering extended mode
+**./classprojectII.tex
+(classprojectII.tex
+LaTeX2e <2021-06-01> patch level 1
+L3 programming layer <2021-10-18>
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/base\article.cls
+Document Class: article 2021/02/12 v1.4n Standard LaTeX document class
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/base\size10.clo
+File: size10.clo 2021/02/12 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count182
+\c@section=\count183
+\c@subsection=\count184
+\c@subsubsection=\count185
+\c@paragraph=\count186
+\c@subparagraph=\count187
+\c@figure=\count188
+\c@table=\count189
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2020/12/05 v1.2c Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.c
+fg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/multirow\multirow.sty
+Package: multirow 2021/03/15 v2.8 Span multiple rows of a table
+\multirow@colwidth=\skip49
+\multirow@cntb=\count190
+\multirow@dima=\skip50
+\bigstrutjot=\dimen141
+)
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/siunitx\siunitx.sty
+Package: siunitx 2021-10-26 v3.0.34 A comprehensive (SI) units package
+\l__siunitx_angle_tmp_dim=\dimen142
+\l__siunitx_angle_marker_box=\box50
+\l__siunitx_angle_unit_box=\box51
+\l__siunitx_compound_count_int=\count191
+
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/translations\translatio
+ns.sty
+Package: translations 2021/01/17 v1.10a internationalization of LaTeX2e package
+s (CN)
+
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count192
+)
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmds
+.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.s
+ty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+))
+\l__siunitx_number_exponent_fixed_int=\count193
+\l__siunitx_number_min_decimal_int=\count194
+\l__siunitx_number_min_integer_int=\count195
+\l__siunitx_number_round_precision_int=\count196
+\l__siunitx_number_group_minimum_int=\count197
+ (C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen143
+))
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/graphics\color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 149.
+)
+\l__siunitx_table_tmp_box=\box52
+\l__siunitx_table_tmp_dim=\dimen144
+\l__siunitx_table_column_width_dim=\dimen145
+\l__siunitx_table_integer_box=\box53
+\l__siunitx_table_decimal_box=\box54
+\l__siunitx_table_before_box=\box55
+\l__siunitx_table_after_box=\box56
+\l__siunitx_table_before_dim=\dimen146
+\l__siunitx_table_carry_dim=\dimen147
+\l__siunitx_unit_tmp_int=\count198
+\l__siunitx_unit_position_int=\count199
+\l__siunitx_unit_total_int=\count266
+
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/l3keys2e\l3k
+eys2e.sty
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-10-18 L3 programming layer (loader) 
+
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdf
+tex.def
+File: l3backend-pdftex.def 2021-10-18 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count267
+\l__pdf_internal_box=\box57
+))
+Package: l3keys2e 2021-08-27 LaTeX2e option processing using LaTeX3 keys
+)
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/tools\array.sty
+Package: array 2021/04/20 v2.5e Tabular extension package (FMi)
+\col@sep=\dimen148
+\ar@mcellbox=\box58
+\extrarowheight=\dimen149
+\NC@list=\toks18
+\extratabsurround=\skip51
+\backup@length=\skip52
+\ar@cellbox=\box59
+))
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/xcolor\xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/colortbl\colortbl.sty
+Package: colortbl 2020/01/04 v1.0e Color table columns (DPC)
+\everycr=\toks19
+\minrowclearance=\skip53
+)
+LaTeX Info: Redefining \color on input line 709.
+\rownum=\count268
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+)
+Package translations Info: No language package found. I am going to use `englis
+h' as default language. on input line 16.
+(classprojectII.aux
+
+LaTeX Warning: Label `tab:table1' multiply defined.
+
+
+LaTeX Warning: Label `tab:table1' multiply defined.
+
+
+LaTeX Warning: Label `tab:table1' multiply defined.
+
+
+LaTeX Warning: Label `tab:table1' multiply defined.
+
+
+LaTeX Warning: Label `tab:table1' multiply defined.
+
+
+LaTeX Warning: Label `tab:table1' multiply defined.
+
+
+LaTeX Warning: Label `tab:table1' multiply defined.
+
+)
+\openout1 = `classprojectII.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 16.
+LaTeX Font Info:    ... okay on input line 16.
+
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.mk
+ii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count269
+\scratchdimen=\dimen150
+\scratchbox=\box60
+\nofMPsegments=\count270
+\nofMParguments=\count271
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count272
+\MPscratchDim=\dimen151
+\MPnumerator=\count273
+\makeMPintoPDFobject=\count274
+\everyMPtoPDFconversion=\toks21
+)
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-b
+ase.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.c
+fg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+(C:\Users\ziont\AppData\Local\Programs\MiKTeX\tex/latex/translations/dicts\tran
+slations-basic-dictionary-english.trsl
+File: translations-basic-dictionary-english.trsl (english translation file `tra
+nslations-basic-dictionary')
+)
+Package translations Info: loading dictionary `translations-basic-dictionary' f
+or `english'. on input line 16.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 18.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 18.
+ [1
+
+{C:/Users/ziont/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 44.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <5> on input line 44.
+<Picture2.jpg, id=12, 1405.25pt x 936.49875pt>
+File: Picture2.jpg Graphic file (type jpg)
+<use Picture2.jpg>
+Package pdftex.def Info: Picture2.jpg  used on input line 51.
+(pdftex.def)             Requested size: 68.99895pt x 45.97029pt.
+<Picture3.jpg, id=13, 326.21875pt x 326.21875pt>
+File: Picture3.jpg Graphic file (type jpg)
+<use Picture3.jpg>
+Package pdftex.def Info: Picture3.jpg  used on input line 53.
+(pdftex.def)             Requested size: 86.25pt x 86.24844pt.
+<Picture4.jpg, id=14, 244.915pt x 207.77625pt>
+File: Picture4.jpg Graphic file (type jpg)
+<use Picture4.jpg>
+Package pdftex.def Info: Picture4.jpg  used on input line 55.
+(pdftex.def)             Requested size: 68.99895pt x 58.5352pt.
+ [3 <./Picture2.jpg> <./Picture3.jpg> <./Picture4.jpg>]
+<Logicpic.png, id=19, 591.85326pt x 80.6381pt>
+File: Logicpic.png Graphic file (type png)
+<use Logicpic.png>
+Package pdftex.def Info: Logicpic.png  used on input line 74.
+(pdftex.def)             Requested size: 345.0pt x 47.00513pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 74--75
+[][] 
+ []
+
+<Logicpic2.png, id=21, 191.43861pt x 71.50926pt>
+File: Logicpic2.png Graphic file (type png)
+<use Logicpic2.png>
+Package pdftex.def Info: Logicpic2.png  used on input line 92.
+(pdftex.def)             Requested size: 86.25pt x 32.21706pt.
+<and.png, id=22, 626.34pt x 400.49625pt>
+File: and.png Graphic file (type png)
+<use and.png>
+Package pdftex.def Info: and.png  used on input line 117.
+(pdftex.def)             Requested size: 413.99895pt x 264.72556pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 117--118
+ [] 
+ []
+
+[4 <./Logicpic.png> <./Logicpic2.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 121--124
+
+ []
+
+<Logicpic3.png, id=28, 191.0504pt x 55.81247pt>
+File: Logicpic3.png Graphic file (type png)
+<use Logicpic3.png>
+Package pdftex.def Info: Logicpic3.png  used on input line 134.
+(pdftex.def)             Requested size: 86.25pt x 25.19627pt.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.142 \begin
+            {table}[h!]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[5 <./and.png> <./Logicpic3.png>]
+<Not.png, id=34, 612.78937pt x 380.17032pt>
+File: Not.png Graphic file (type png)
+<use Not.png>
+Package pdftex.def Info: Not.png  used on input line 158.
+(pdftex.def)             Requested size: 413.99895pt x 256.84172pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 158--159
+ [] 
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 167--169
+
+ []
+
+[6 <./Not.png>]
+<nor1.png, id=39, 222.53436pt x 53.66585pt>
+File: nor1.png Graphic file (type png)
+<use nor1.png>
+Package pdftex.def Info: nor1.png  used on input line 177.
+(pdftex.def)             Requested size: 86.25pt x 20.79938pt.
+<arrow.png, id=40, 65.043pt x 34.6896pt>
+File: arrow.png Graphic file (type png)
+<use arrow.png>
+Package pdftex.def Info: arrow.png  used on input line 179.
+(pdftex.def)             Requested size: 44.85168pt x 23.92207pt.
+<nor2.png, id=41, 153.12654pt x 68.69228pt>
+File: nor2.png Graphic file (type png)
+<use nor2.png>
+Package pdftex.def Info: nor2.png  used on input line 181.
+(pdftex.def)             Requested size: 86.25pt x 38.6917pt.
+<norm.png, id=42, 668.4975pt x 383.93437pt>
+File: norm.png Graphic file (type png)
+<use norm.png>
+Package pdftex.def Info: norm.png  used on input line 205.
+(pdftex.def)             Requested size: 413.99895pt x 237.77907pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 205--206
+[] 
+ []
+
+[7 <./nor1.png> <./arrow.png> <./nor2.png> <./norm.png>]
+Underfull \hbox (badness 10000) in paragraph at lines 215--217
+
+ []
+
+[8]
+<nand1.png, id=54, 244.71623pt x 57.9591pt>
+File: nand1.png Graphic file (type png)
+<use nand1.png>
+Package pdftex.def Info: nand1.png  used on input line 225.
+(pdftex.def)             Requested size: 86.25pt x 20.42747pt.
+File: arrow.png Graphic file (type png)
+<use arrow.png>
+Package pdftex.def Info: arrow.png  used on input line 227.
+(pdftex.def)             Requested size: 44.85168pt x 23.92207pt.
+<nand2.png, id=55, 180.675pt x 51.19125pt>
+File: nand2.png Graphic file (type png)
+<use nand2.png>
+Package pdftex.def Info: nand2.png  used on input line 229.
+(pdftex.def)             Requested size: 86.25pt x 24.43716pt.
+<nandm.png, id=56, 595.47469pt x 391.4625pt>
+File: nandm.png Graphic file (type png)
+<use nandm.png>
+Package pdftex.def Info: nandm.png  used on input line 253.
+(pdftex.def)             Requested size: 413.99895pt x 272.15822pt.
+
+Overfull \hbox (68.99895pt too wide) in paragraph at lines 253--254
+[] 
+ []
+
+[9 <./nand1.png> <./nand2.png> <./nandm.png>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.267 \begin
+            {table}[h!]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<xor1.png, id=63, 249.72505pt x 103.75397pt>
+File: xor1.png Graphic file (type png)
+<use xor1.png>
+Package pdftex.def Info: xor1.png  used on input line 272.
+(pdftex.def)             Requested size: 86.25pt x 35.83473pt.
+File: arrow.png Graphic file (type png)
+<use arrow.png>
+Package pdftex.def Info: arrow.png  used on input line 274.
+(pdftex.def)             Requested size: 44.85168pt x 23.92207pt.
+<xor2.png, id=64, 208.93901pt x 72.98555pt>
+File: xor2.png Graphic file (type png)
+<use xor2.png>
+Package pdftex.def Info: xor2.png  used on input line 276.
+(pdftex.def)             Requested size: 86.25pt x 30.12805pt.
+[10 <./xor1.png> <./xor2.png>]
+
+! Package inputenc Error: Unicode character ⊙ (U+2299)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.304 ...an inverter. It is represented by the ⊙
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+<xnor.png, id=70, 306.96861pt x 66.54564pt>
+File: xnor.png Graphic file (type png)
+<use xnor.png>
+Package pdftex.def Info: xnor.png  used on input line 317.
+(pdftex.def)             Requested size: 86.25pt x 18.69763pt.
+File: arrow.png Graphic file (type png)
+<use arrow.png>
+Package pdftex.def Info: arrow.png  used on input line 319.
+(pdftex.def)             Requested size: 44.85168pt x 23.92207pt.
+<xnor1.png, id=71, 217.52554pt x 59.3902pt>
+File: xnor1.png Graphic file (type png)
+<use xnor1.png>
+Package pdftex.def Info: xnor1.png  used on input line 321.
+(pdftex.def)             Requested size: 86.25pt x 23.54813pt.
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.327 \begin
+            {table}[h!]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<logictable.png, id=72, 421.45575pt x 410.00703pt>
+File: logictable.png Graphic file (type png)
+<use logictable.png>
+Package pdftex.def Info: logictable.png  used on input line 348.
+(pdftex.def)             Requested size: 172.5pt x 167.80992pt.
+[11 <./xnor.png> <./xnor1.png> <./logictable.png>] [12]
+
+! Package keyval Error: left undefined.
+
+See the keyval package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.377 ...degraphics[width=.6\textwidth,left]{quiz}
+                                                  
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<quiz.png, id=82, 245.41687pt x 161.85469pt>
+File: quiz.png Graphic file (type png)
+<use quiz.png>
+Package pdftex.def Info: quiz.png  used on input line 377.
+(pdftex.def)             Requested size: 207.0021pt x 136.52502pt.
+[13 <./quiz.png>] (classprojectII.aux)
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 6139 strings out of 478907
+ 144712 string characters out of 2851892
+ 420329 words of memory out of 3000000
+ 23985 multiletter control sequences out of 15000+600000
+ 407685 words of font info for 41 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 73i,14n,81p,362b,510s stack positions out of 5000i,500n,10000p,200000b,80000s
+<C:/Users/ziont/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/
+cmbx10.pfb><C:/Users/ziont/AppData/Local/Programs/MiKTeX/fonts/type1/public/ams
+fonts/cm/cmbx12.pfb><C:/Users/ziont/AppData/Local/Programs/MiKTeX/fonts/type1/p
+ublic/amsfonts/cm/cmr10.pfb><C:/Users/ziont/AppData/Local/Programs/MiKTeX/fonts
+/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/ziont/AppData/Local/Programs/MiKT
+eX/fonts/type1/public/amsfonts/cm/cmr17.pfb>
+Output written on classprojectII.pdf (13 pages, 654591 bytes).
+PDF statistics:
+ 110 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 106 words of extra memory for PDF output out of 10000 (max. 10000000)
+
