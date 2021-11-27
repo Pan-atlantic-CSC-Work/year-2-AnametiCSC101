@@ -1,0 +1,17 @@
+\documentclass{article}
+\usepackage{pgfplotstable}
+\usepackage{multirow}
+\begin{document}
+	\pgfplotstabletypeset[
+	col sep=comma,
+	string type,
+	columns/name/.style={column name=id, column type={|l|}},
+	columns/surname/.style={column name=name, column type={|l|}},
+	columns/age/.style={column name=Years, column type={|c|}},
+	columns/age/.style={column name=genre, column type={|c|}},
+	columns/age/.style={column name=nationality, column type={|c|}},
+	columns/age/.style={column name=painting, column type={|c|}},
+	every head row/.style={before row=\hline,after row=\hline},
+	every last row/.style={after row=\hline},
+	]{artists.csv}
+\end{document}
